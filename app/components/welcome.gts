@@ -1,3 +1,3 @@
 <template>
-    Hello template-tags!
+  Hello template-tags!
 </template>
