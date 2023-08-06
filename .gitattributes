@@ -1,0 +1,7 @@
+# GitHub language detection
+*.gjs linguist-language=js linguist-detectable
+*.gts linguist-language=ts linguist-detectable
+
+# GitLab language detection
+*.gjs gitlab-language=js
+*.gts gitlab-language=ts
