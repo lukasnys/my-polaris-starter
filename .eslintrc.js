@@ -10,7 +10,7 @@ module.exports = {
   extends: [
     'eslint:recommended',
     'plugin:ember/recommended',
-    'plugin:prettier/recommended',
+    // 'plugin:prettier/recommended', // TODO: enable this
   ],
   env: {
     browser: true,
