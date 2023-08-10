@@ -1,3 +1,5 @@
+const world = 'template-tags';
+
 <template>
-  Hello template-tags!
+  Hello {{world}}!
 </template>
